@@ -1,7 +1,8 @@
 /*400px*/
 
 @media(max-width:400px){
-    .container{flex-wrap: wrap;}
+    .container{flex-wrap: wrap;overflow: hidden;}
     #navegacao h1{font-size: 15px;}
-    #navbar{position: absolute;}
+    #navbar{position: absolute;width: 380px;overflow: hidden;}
+    #navbar a{display: none;}
 }
