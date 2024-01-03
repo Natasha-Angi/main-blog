@@ -16,7 +16,7 @@ a:hover{text-decoration: underline; color:#fff}
     
 /*Menu*/
 
-#navbar{padding: 1.5rem 1.5rem; border-bottom: 2px solid rgb(78, 81, 91);box-shadow:-2px -2px 7px black;position: fixed;width: 1200px;background-color: rgb(38, 40, 45); height: 70px;}
+#navbar{padding: 1.5rem 1.5rem; border-bottom: 2px solid rgb(78, 81, 91);box-shadow:-2px -2px 7px black;position: fixed;width: 1400px;background-color: rgb(38, 40, 45); height: 70px;}
 
 #navbar a{ margin-right: 30px;}
 
